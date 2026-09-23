@@ -340,6 +340,8 @@ public class RunepouchLoadoutIcon {
     new RunepouchLoadoutIcon(SpriteID.IconBoss25x25.SOL_HEREDIT, "Sol Heredit"),
     new RunepouchLoadoutIcon(SpriteID.IconBoss25x25.LUNAR_CHESTS, "Lunar Chests"),
     new RunepouchLoadoutIcon(SpriteID.IconBoss25x25.MAGGOT_KING, "Maggot King"),
+    new RunepouchLoadoutIcon(SpriteID.IconBoss25x25.SHELLBANE_GRYPHON, "Shellbane Gryphon"),
+    new RunepouchLoadoutIcon(SpriteID.IconBoss25x25.BRUTUS, "Brutus"),
 
     new RunepouchLoadoutIcon(SpriteID.Staticons.ATTACK, "Attack"),
     new RunepouchLoadoutIcon(SpriteID.Staticons.STRENGTH, "Strength"),
@@ -359,6 +361,12 @@ public class RunepouchLoadoutIcon {
     new RunepouchLoadoutIcon(SpriteID.Staticons.COOKING, "Cooking"),
     new RunepouchLoadoutIcon(SpriteID.Staticons.FIREMAKING, "Firemaking"),
     new RunepouchLoadoutIcon(SpriteID.Staticons.WOODCUTTING, "Woodcutting"),
+    new RunepouchLoadoutIcon(SpriteID.Staticons2.RUNECRAFT, "Runecraft"),
+    new RunepouchLoadoutIcon(SpriteID.Staticons2.CONSTRUCTION, "Construction"),
+    new RunepouchLoadoutIcon(SpriteID.Staticons2.FARMING, "Farming"),
+    new RunepouchLoadoutIcon(SpriteID.Staticons2.HUNTER, "Hunter"),
+    new RunepouchLoadoutIcon(SpriteID.Staticons2.SLAYER, "Slayer"),
+    new RunepouchLoadoutIcon(SpriteID.Staticons2.SAILING, "Sailing"),
 
     new RunepouchLoadoutIcon(SpriteID.ClanRankIcons._0, "Clan Rank 0"),
     new RunepouchLoadoutIcon(SpriteID.ClanRankIcons._1, "Clan Rank 1"),
